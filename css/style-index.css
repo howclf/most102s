@@ -1,0 +1,91 @@
+/* ==== Google font ==== */
+@import url('http://fonts.googleapis.com/css?family=Lato:400,300,700,900');
+/* === fontawesome === */
+@import url('font-awesome.css');
+/* ==== overwrite bootstrap standard ==== */
+@import url('overwrite.css');
+@import url('animate.css');
+/*==========================================================================
+  General
+  ========================================================================== */
+
+@font-face {
+	font-family: "NotoSansHant-Bold";
+	src:url(../fonts/NotoSansCJKjp-Bold.otf);
+}
+@font-face {
+	font-family: "NotoSansArmenian-Regular";
+	src:url(../fonts/NotoSansArmenian-Regular.otf);
+}
+@font-face {
+	font-family: "NotoSansCJKjp-DemiLight";
+	src:url(../fonts/NotoSansCJKjp-DemiLight.otf);
+}
+@font-face {
+	font-family: "NotoSansCJKjp-Black";
+	src:url(../fonts/NotoSansCJKjp-Black.otf);
+}
+@font-face {
+	font-family: "NotoSansArmenian-Bold";
+	src:url(../fonts/NotoSansArmenian-Bold.otf);
+}
+
+
+
+.green{
+    background: #B6D7A8;    
+}
+.blue{
+    background: #C9DAF8;
+}
+.red{
+    background: #F4CCCC;
+}
+.purple{
+    background: #B4A7D6;
+}
+.gray{
+    background: #CCCCCC;
+}
+.yellow{
+    background: #FFF2CC;
+    vertical-align: inherit;
+}
+.table > tbody > tr > th, .table > tfoot > tr > th, .table > tbody > tr > td, .table > tfoot > tr > td{
+    vertical-align: inherit;
+    color:black;
+}
+.dark-green{
+    background: #38761D;
+    color: white;
+    font-weight: bold;
+}
+td[data-toggle="modal"]:hover{
+    font-weight: bold;
+}
+.table-bordered {
+	text-align: center;
+
+}
+.heading-top {
+	font-family: "NotoSansHant-Bold";
+	font-size:18px;
+}
+.navbar-right {
+	font-family: "NotoSansCJKjp-Black";
+	font-size:16px;
+}
+.news-board {
+		width:80%;
+}
+.news-title {
+	padding: 7px 10px;
+}
+.news-th{
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-size:90%;
+	border-bottom: 2px	solid #111111;
+	border-top:1px solid #999;
+	text-align: left;
+} 

@@ -1,0 +1,152 @@
+.green{
+    background: #B6D7A8;    
+}
+.blue{
+    background: #C9DAF8;
+}
+.red{
+    background: #F4CCCC;
+}
+.purple{
+    background: #B4A7D6;
+}
+.gray{
+    background: #CCCCCC;
+}
+.yellow{
+    background: #FFF2CC;
+    vertical-align: inherit;
+}
+.table > tbody > tr > th, .table > tfoot > tr > th, .table > tbody > tr > td, .table > tfoot > tr > td{
+    vertical-align: inherit;
+    color:black;
+}
+.dark-green{
+    background: #38761D;
+    color: white;
+    font-weight: bold;
+}
+td[data-toggle="modal"]:hover{
+    font-weight: bold;
+}
+.table-bordered {
+	width:70%;
+	margin-left:auto; 
+	margin-right:auto;
+	text-align:center;
+	font-family: "Microsoft JhengHei";
+	font-size:16px;
+	font-weight: bold;
+}
+.heading-top {
+	font-family: "Microsoft JhengHei";
+	font-size:18px;
+	font-weight: bold;
+}
+.navbar-right {
+	font-family: "Microsoft JhengHei";
+	font-size:16px;
+	font-weight: bold;
+}
+.news-board {
+	width:80%;
+	margin-left:auto; 
+	margin-right:auto;
+	border-collapse: separate;
+	border-spacing: 6px;
+	-webkit-border-horizontal-spacing: 6px;
+	-webkit-border-vertical-spacing: 6px;
+	font-family: "Microsoft JhengHei";
+	font-size:16px;
+	color:inherit;
+}
+.news-th , .news-td{
+	padding: 7px 10px;
+}
+.news-th{
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-size:90%;
+	border-bottom: 2px	solid #111111;
+	border-top:1px solid #999;
+	text-align: left;
+} 
+.thmember1 {
+	width:30%;
+}
+.thmember2 {
+	width:70%;
+}
+.news-title:hover {
+	background-color:#c3e6e5;
+}
+.even{
+	background-color:#efefef;
+}
+.news-a:hover{
+	 color:#5AA0E6;
+    -webkit-transition: color .20s linear;
+    -moz-transition: color .20s linear;
+    transition:  color .20s linear;
+}
+.location-a:hover{
+     color:#5AA0E6;
+    -webkit-transition: color .20s linear;
+    -moz-transition: color .20s linear;
+    transition:  color .20s linear;
+}
+.news-td{
+	font-family: "Microsoft JhengHei";
+	font-size:14px;
+}
+.about-heading {
+	font-family: "Microsoft JhengHei";
+	font-size:18px;
+	font-weight: bold;
+}
+.about-important {
+	font-family: "Microsoft JhengHei";
+	font-size:16px;
+	color:#EE2C2C;	
+	font-weight: bold;
+}
+.about-content {
+	font-family: "Microsoft JhengHei";
+	font-size:14px;
+}
+.about-contentimportant {
+	font-family: "Microsoft JhengHei";
+	font-size:16px;
+	color:#EE2C2C;
+}
+.heading-sub {
+	font-family: "Microsoft JhengHei";
+	font-size:22px;
+	font-weight: bold;
+}
+.member1 {
+	position:relative;
+}
+.about-sub {
+	font-family: "Microsoft JhengHei";
+	font-size:16px;
+}
+.td-trans[data-toggle="modal"]:hover{
+    color:#5AA0E6;
+}
+.container2{
+	background:#FFFFFF;
+}
+.exception{
+	margin-right: opx;
+	margin-left: opx;	
+}
+.row-exception{
+	background-color: #f5f5f5;
+}
+
+.grey{
+    background: #B0B0B0 ;
+    color: white;
+    font-weight: bold;
+}
